@@ -6,9 +6,7 @@ import guru.springframework.domain.Product;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * Created by jt on 1/10/17.
- */
+
 public interface ProductService {
 
     List<Product> listAll();
